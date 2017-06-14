@@ -7,4 +7,4 @@ permalink: /about/
 ### Contact me
 ######Wechat
 
-//[email@domain.com](mailto:email@domain.com)
+// [email@domain.com](mailto:email@domain.com)
