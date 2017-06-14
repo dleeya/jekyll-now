@@ -6,10 +6,10 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+	全能业余选手.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+	Wechat
+
+//[email@domain.com](mailto:email@domain.com)
