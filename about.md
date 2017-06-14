@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-全能业余选手.
+######全能业余选手.
 
 ### Contact me
 
-Wechat
+######Wechat
 
 //[email@domain.com](mailto:email@domain.com)
