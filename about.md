@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: 全能业余选手.
 permalink: /about/
 ---
-全能业余选手.
+
 
 
