@@ -5,6 +5,4 @@ permalink: /about/
 ---
 全能业余选手.
 
-### Contact me
 
-Wechat
